@@ -7,3 +7,5 @@ Git tracks changes.
 Git changed again.
 
 Create a NEW branch is quick.
+
+Something different in branch dev.
